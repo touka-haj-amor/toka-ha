@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-I'm Touka from Tunisia, an IT student and a Full Stack development enthusiast.
 
 ## Skills
 
